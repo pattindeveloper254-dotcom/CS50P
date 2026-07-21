@@ -1,0 +1,4 @@
+cs50_env/
+.vscode/
+__pycache__/
+*.pyc
